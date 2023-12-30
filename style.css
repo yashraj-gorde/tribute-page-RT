@@ -1,0 +1,27 @@
+*{
+    background-color: black
+}
+h1,h2{
+    color: rgb(15, 232, 22);
+    text-align: center;
+    text-decoration: underline;
+    am
+}
+div{
+    height: 400px;
+    width:800px;
+    margin: 10px auto;
+}
+img{
+    height:400px;
+ border-radius: 10px 10px 10px 10px;
+ transition: 2s;
+}
+img:hover{
+   box-shadow: 5px 5px 20px rgb(30, 213, 6);
+}
+.info{
+    margin: 60px auto;
+    color: aliceblue;
+    font-size: 20px;
+}
